@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/IMAGE/car-1.jpeg</ImageUrl>
+    <NavigateUrl>https://www.gujaratuniversity.ac.in/</NavigateUrl>
+    <AlternateText>Image not found</AlternateText>
+    <Impression>40</Impression>
+    <Keyword>Car-1</Keyword>
+    <Height>150</Height>
+    <Width>200</Width>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/IMAGE/car-2.jpeg</ImageUrl>
+    <NavigateUrl>https://www.youtube.com/</NavigateUrl>
+    <AlternateText>Image not found</AlternateText>
+    <Impression>60</Impression>
+    <Keyword>Car-2</Keyword>
+    <Height>150</Height>
+    <Width>200</Width>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/IMAGE/car-3.jpeg</ImageUrl>
+    <NavigateUrl>https://www.hotstar.com/in/home?ref=%2Fin</NavigateUrl>
+    <AlternateText>Image not found</AlternateText>
+    <Impression>50</Impression>
+    <Keyword>Car-3</Keyword>
+    <Height>150</Height>
+    <Width>200</Width>
+  </Ad>
+</Advertisements>
